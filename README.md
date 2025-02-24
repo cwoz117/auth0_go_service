@@ -1,0 +1,1 @@
+# auth0_go_service
